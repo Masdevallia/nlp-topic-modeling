@@ -26,16 +26,12 @@ Playing with NLP Topic Modeling (a process of deriving topics from text).
 - https://towardsdatascience.com/building-a-topic-modeling-pipeline-with-spacy-and-gensim-c5dc03ffc619
 - https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/
 - https://medium.com/@colemiller94/topic-modeling-with-spacy-and-gensim-7ecfd3de95f4
-
----
-
 - https://www.kaggle.com/thebrownviking20/topic-modelling-with-spacy-and-scikit-learn
+---
 - https://www.kdnuggets.com/2019/09/overview-topics-extraction-python-latent-dirichlet-allocation.html
 - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 - https://radimrehurek.com/gensim/models/ldamodel.html
 - https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
-
 ---
-
 - https://spacy.io/
 - https://spacy.io/models
