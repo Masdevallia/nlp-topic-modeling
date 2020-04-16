@@ -6,6 +6,20 @@ Playing with NLP Topic Modeling (a process of deriving topics from text).
 - https://www.kaggle.com/austinreese/trump-tweets
 - https://www.kaggle.com/datacrux/barack-obama-twitterdata-from-20122019
 
+### Scripts:
+- Obama_VS_Trump_Round1.ipynb
+    - Manual data preprocessing.
+    - Bag of words with sklearn (CountVectorizer).
+    - sklearn LDA.
+- Obama_VS_Trump_Round2.ipynb
+    - Data preprocessing with nltk and gensim.
+    - Bag of Words and TF-IDF with gensim.
+    - gensim LDA.
+- Obama_VS_Trump_Round3.ipynb
+    - Data preprocessing with spacy.
+    - Bag of Words with gensim.
+    - gensim LDA.
+
 ### Some resources:
 - https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
 - https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
